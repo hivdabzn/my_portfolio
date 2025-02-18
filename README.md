@@ -5,7 +5,7 @@
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/portfolio.git
+git clone https://github.com/hivda/portfolio.git
 cd portfolio
 ```
 
